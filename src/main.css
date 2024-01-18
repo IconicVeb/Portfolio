@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    background: linear-gradient(0deg, #07203F, #07203F),
+linear-gradient(0deg, #FFFFFF, #FFFFFF);
+width: 1900px;
+height: 154px;
+border-radius: 1px;
+
+
+}
+
+.box {
+    height: 60px;
+}
