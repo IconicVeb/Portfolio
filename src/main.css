@@ -125,12 +125,6 @@ h1 {
     padding-left: 788px;
 }
 
-img {
-    display: flex;
-    width: 516px;
-    border-radius: 383px;
-}
-
 aside,
 nav,
 footer,
@@ -178,9 +172,7 @@ a:hover {
 	text-decoration: none;
 }
 
-img {
-	vertical-align: top;
-}
+
 
 
 
