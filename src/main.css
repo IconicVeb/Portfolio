@@ -1,5 +1,7 @@
 * {
-    margin: 0;
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
 }
 .container1 {
     display: flex;
@@ -123,12 +125,62 @@ h1 {
     padding-left: 788px;
 }
 
-.image {
+img {
     display: flex;
     width: 516px;
     border-radius: 383px;
 }
 
+aside,
+nav,
+footer,
+header,
+section {
+	display: block;
+}
+
+body {
+	line-height: 1;
+	-ms-text-size-adjust: 100%;
+	-moz-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+}
+
+main {
+	flex: 1 1 auto;
+}
+
+body,
+html {
+	height: 100%;
+}
+
+input::-ms-clear {
+	display: none;
+}
+
+button {
+	background-color: transparent;
+	cursor: pointer;
+}
+
+button::-moz-focus-inner {
+	padding: 0;
+	border: 0;
+}
+
+a,
+a:visited {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+img {
+	vertical-align: top;
+}
 
 
 
