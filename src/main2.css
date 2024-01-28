@@ -191,7 +191,7 @@ p {
 .photo {
     display: flex;
     margin-top: 135px;
-    margin-left: 406px;
+    margin-left: auto;
 }
 
 .myphoto {
