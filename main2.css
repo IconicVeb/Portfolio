@@ -149,7 +149,7 @@ a {
 }
 
 
-h1 {
+.iam {
     font-family: 'Montserrat';
     font-size: 64px;
     font-weight: 800;
@@ -206,6 +206,9 @@ p {
     width: 100%;
     height: 100%;
     background-image: url(/images/back.jpeg);
+    object-fit: cover;
+    position: absolute;
+    left: 0px;
 }
 
 .skill-container {
@@ -219,12 +222,12 @@ p {
     font-family: 'Montserrat';
     font-weight: 800;
     font-size: 72px;
-    line-height: 88px;
-    display: inline;
-    text-align: left;
     letter-spacing: 0em;
+    line-height: 88px;
     padding-left: 546px;
     padding-top: 135px;
+    display:inline;
+    text-align: left;
 }
 
 .container {
@@ -250,7 +253,6 @@ p {
 .js {
     width: 350px;
     height: 223px;
-    left: -0.5px;
 }
 
 
