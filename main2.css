@@ -206,7 +206,7 @@ p {
     width: 100%;
     height: 100%;
     background-image: url(/images/back.jpeg);
-    position: absolute;
+    position: relative;
 }
 
 .skill-container {
@@ -227,11 +227,12 @@ p {
 }
 
 .container {
-    display: flex;
-    position: absolute;
+    display: inline-flex;
+    position: relative;
     width: 350px;
     height: 350px;
     gap: 58.5px;
+
     top: 296px;
 }
 
