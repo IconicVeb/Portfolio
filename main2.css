@@ -207,12 +207,8 @@ p {
     height: 100%;
     background-image: url(/images/back.jpeg);
     position: relative;
-    
 }
 
-.skill-container {
-    
-}
 
 .ican {
     color: #333333;
@@ -227,12 +223,16 @@ p {
     position: absolute;
 }
 
-.container {
+.container { 
     display: flex;
+    gap: 58.5px;
     width: 350px;
     height: 350px;
-    gap: 58.5px;
-    top: 296px;
+    top: 298px;
+
+}
+
+.skill-container {
 }
 
 .html {
