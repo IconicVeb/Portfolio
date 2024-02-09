@@ -207,6 +207,7 @@ p {
     height: 100%;
     background-image: url(/images/back.jpeg);
     position: relative;
+    text-align: center;
 }
 
 .skill-container {
@@ -227,8 +228,9 @@ p {
 }
 
 .container {
-    display: inline-flex;
-    position: relative;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
     width: 350px;
     height: 350px;
     gap: 58.5px;
