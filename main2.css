@@ -265,7 +265,6 @@ p {
 }
 
 .htmltext {
-    color: #FFFFFF;
     width: 350px;
     height: 50px;
     top: 261px;
@@ -274,6 +273,9 @@ p {
     font-weight: 800;
     font-size: 64px;
     line-height: 78px;
+    color: #FFFFFF;
+    
+
 }
 
 .csstext {
