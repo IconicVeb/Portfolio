@@ -239,6 +239,7 @@ p {
 .skill-container {
     display: flex;
     position: relative;
+    justify-content: center;
 }
 
 .html {
@@ -274,6 +275,8 @@ p {
     font-size: 64px;
     line-height: 78px;
     color: #FFFFFF;
+    display: inline-block;
+    vertical-align: bottom;
     
 
 }
