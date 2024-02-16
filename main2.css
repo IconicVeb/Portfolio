@@ -237,9 +237,8 @@ p {
 }
 
 .skill-container {
-    display: flex;
     position: relative;
-    justify-content: center;
+
 }
 
 .html {
@@ -265,6 +264,12 @@ p {
     position: relative;
 }
 
+.text-container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
 .htmltext {
     width: 350px;
     height: 50px;
@@ -275,18 +280,30 @@ p {
     font-size: 64px;
     line-height: 78px;
     color: #FFFFFF;
-    display: inline-block;
-    vertical-align: bottom;
-    
-
 }
 
 .csstext {
-    
+    width: 350px;
+    height: 50px;
+    top: 261px;
+    border: 1px;
+    font-family: 'Montserrat';
+    font-weight: 800;
+    font-size: 64px;
+    line-height: 78px;
+    color: #FFFFFF;
 }
 
 .jstext {
-    
+    width: 350px;
+    height: 50px;
+    top: 261px;
+    border: 1px;
+    font-family: 'Montserrat';
+    font-weight: 800;
+    font-size: 64px;
+    line-height: 78px;
+    color: #FFFFFF;
 }
 
 
