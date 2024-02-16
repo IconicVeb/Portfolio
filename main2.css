@@ -307,7 +307,7 @@ p {
 }
 
 .myworks {
-    width: 1440px;
+    width: 100%;
     height: 1795px;
     background: #07203F;
     padding: 10px;
@@ -329,7 +329,7 @@ p {
 .myproj {
     position: relative;
     display: flex;
-    top: 135px;
+    top: 100px;
     justify-content: center;
 }
 
