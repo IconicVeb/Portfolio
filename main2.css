@@ -333,6 +333,17 @@ p {
     justify-content: center;
 }
 
+.works {
+    display: flex;
+    position: relative;
+    flex-direction: row;
+}
+
+.work_1 {
+    color: #FFFFFF;
+    
+}
+
 
 
 
