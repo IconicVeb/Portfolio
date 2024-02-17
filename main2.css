@@ -273,7 +273,7 @@ p {
 .htmltext {
     width: 350px;
     height: 50px;
-    top: 261px;
+    margin-top: 20px;
     border: 1px;
     font-family: 'Montserrat';
     font-weight: 800;
@@ -285,7 +285,7 @@ p {
 .csstext {
     width: 350px;
     height: 50px;
-    top: 261px;
+    margin-top: 20px;
     border: 1px;
     font-family: 'Montserrat';
     font-weight: 800;
@@ -297,7 +297,7 @@ p {
 .jstext {
     width: 350px;
     height: 50px;
-    top: 261px;
+    margin-top: 20px;
     border: 1px;
     font-family: 'Montserrat';
     font-weight: 800;
