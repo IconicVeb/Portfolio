@@ -342,11 +342,11 @@ p {
 .works {
     display: flex;
     position: relative;
-    flex-direction: row;
+    flex-direction: column;
 }
 
-.work_1 {
-    color: #FFFFFF;
+.work {
+    text-align: center;
 }
 
 
